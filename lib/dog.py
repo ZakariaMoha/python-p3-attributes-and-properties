@@ -12,4 +12,6 @@ APPROVED_BREEDS = [
 ]
 
 class Dog:
-    pass
+    def_init_(self, name, breed="Mutt"):
+        self.name = name 
+        self.name = breed

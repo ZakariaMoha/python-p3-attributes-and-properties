@@ -16,4 +16,6 @@ APPROVED_JOBS = [
 ]
 
 class Person:
-    pass
+    def_init_(self, name):
+        self.name = name 
+        
